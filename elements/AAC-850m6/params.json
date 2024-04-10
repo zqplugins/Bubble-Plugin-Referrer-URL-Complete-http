@@ -1,0 +1,41 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 25,
+        "width": 25
+    },
+    "display": "Referrer Detector",
+    "events": {
+        "AAG": {
+            "caption": "referrer detected",
+            "name": "oui"
+        },
+        "AAH": {
+            "caption": "no referrer",
+            "name": "non"
+        }
+    },
+    "icon": "ion-link",
+    "property_applications": {
+        "resizable": true
+    },
+    "states": {
+        "AAD": {
+            "caption": "Referrer URL",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\nvar oldURL = document.referrer;\nreturn(oldURL);\n\n}"
+            },
+            "name": "previous_url",
+            "value": "text"
+        },
+        "AAI": {
+            "caption": "is_referred",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n    var referrerr = document.referrer;\n\tif (referrerr) {\n    \t\treturn(true); \n\t} \n\n\n}"
+            },
+            "name": "is_referred",
+            "value": "boolean"
+        }
+    }
+}

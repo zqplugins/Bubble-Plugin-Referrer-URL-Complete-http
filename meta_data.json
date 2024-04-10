@@ -1,0 +1,13 @@
+{
+    "categories": {
+        "0": "web scraping"
+    },
+    "demo_page": "https://referrer-url-complete.bubbleapps.io/version-test",
+    "description": "[WU Optimized 🚀] Find out if a website has referred your page.\nYou can access it through a boolean state as well as the URL of the referrer\nTwo events can also be triggered if a referrer is detected or not.\n\n✔️ FEATURES \n\n➡️ Trigger an event if the page is referred or not\n➡️ Expose a state that indicates if the page is referred\n➡️ Expose a state that indicates the URL of the referrer\n✅ Reliable code\n✅ Complete documentation and easy-to-use\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/referrer-url-complete-http-plugin-for-bubble-1709876820102x202882250067754080\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-q.cdn.bubble.io/f1709876747800x647905323219886000/Screenshot%202024-03-08%20at%2012.45.37.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Referrer URL Complete #http",
+    "plugin_instructions": "",
+    "sa_node_version": 18
+}
